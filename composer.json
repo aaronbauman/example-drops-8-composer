@@ -10,13 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.8",
-        "drupal/bootstrap": "3.x-dev",
-        "drupal/config_direct_save": "^1.0",
-        "drupal/config_installer": "^1.0",
-        "drupal/console": "^1",
-        "drush-ops/behat-drush-endpoint": "^9.3",
-        "drush/drush": "~8.3"
+         "drupal/bootstrap": "3.x-dev"
     },
     "conflict": {
             "drupal/drupal": "*"
