@@ -4,7 +4,6 @@
   "type": "project",
   "license": "MIT",
   "require": {
-    "drupal/core": "^8.6.15",
     "drupal/bootstrap": "3.x-dev"
   }
 }
