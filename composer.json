@@ -6,6 +6,7 @@
   "require": {
     "composer/installers": "^1.0.24",
     "wikimedia/composer-merge-plugin": "^1.4",
+    "stack/builder": "^1.0",
     "zendframework/zend-diactoros": "^1.1",
     "asm89/stack-cors": "^1.1",
     "drupal/bootstrap": "3.x-dev"
