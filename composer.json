@@ -4,8 +4,6 @@
   "type": "project",
   "license": "MIT",
   "require": {
-    "composer/installers": "^1.0.24",
-    "wikimedia/composer-merge-plugin": "^1.4",
     "symfony/class-loader": "~3.4.0",
     "symfony/console": "~3.4.0",
     "symfony/dependency-injection": "~3.4.26",
@@ -35,6 +33,8 @@
     "composer/semver": "^1.0",
     "asm89/stack-cors": "^1.1",
     "pear/archive_tar": "^1.4",
+    "composer/installers": "^1.0.24",
+    "wikimedia/composer-merge-plugin": "^1.4",
     "drupal/bootstrap": "3.x-dev"
   }
 }
