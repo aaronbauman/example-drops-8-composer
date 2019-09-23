@@ -5,7 +5,6 @@
   "license": "MIT",
   "require": {
     "php": ">=7.0.8",
-    "drupal-composer/drupal-scaffold": "^2.0.1",
     "drupal/config_direct_save": "^1.0",
     "drupal/config_installer": "^1.0",
     "drupal/console": "^1",
